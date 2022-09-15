@@ -13,6 +13,7 @@ void jack_bauer(void)
 
 	h2 = 0;
 	while (h2 <= 2)
+		if (h2 == 2)
 	{
 		a = 3;
 	}
@@ -38,6 +39,4 @@ void jack_bauer(void)
 		h1++;
 	}
 	h2++;
-}
-
 }
