@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 #ifndef _MAIN_H_
 #define _MAIN_H_
+=======
+#ifndef MAIN_H
+#define MAIN_H
+>>>>>>> 6d5e70a86092998f72475ee41e866c8ce11b07c7
 
 int _putchar(char);
 void _puts_recursion(char *s);
