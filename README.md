@@ -1,3 +1,5 @@
-#Navigation using betty commands#
-##first project on C-Debugging##
-#Debugging is the process of finding and fixing errors in software that prevents it from running correctly. As you become a more advanced programmer and an industry engineer, you will learn how to use debugging tools such as gdb or built-in tools that IDEs have. However, it’s important to understand the concepts and processes of debugging manually.
+#Automatic and dynamic allocation, malloc and free
+
+##The malloc function is used to allocate a certain amount of memory during the execution of a program. It will request a block of memory from the heap. If the request is granted, the operating system will reserve the requested amount of memory and malloc will return a pointer to the reserved space.
+
+##When the amount of memory is not needed anymore, you must return it to the operating system by calling the function free.
