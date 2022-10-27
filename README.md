@@ -9,7 +9,6 @@ Project done during **Full Stack Software Engineering studies** at **alx_africa*
 realloc`,`argv`, `argc`, `pointer`, `pointer to pointer`, `struct`, `pointer to function`, `debugging`, `singly-lists`, `variadic-function`, `bit-manip
 
 ulation`,`variables`, `preprocessor`, in  **C language**.                                                                                                                                                       
-
                                                                                                                                                        
 
 ## Files                                                                                                                                               
